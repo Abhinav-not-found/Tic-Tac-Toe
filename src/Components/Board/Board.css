@@ -1,0 +1,12 @@
+.board-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.board{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
